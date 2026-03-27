@@ -1,11 +1,12 @@
 
 <img width="2012" height="506" alt="Gemini_Generated_Image_ciuk1uciuk1uciuk" src="https://github.com/user-attachments/assets/3b2d0e99-021b-4d5f-aed5-d2136ba1e787" />
 <hr/>
+<h2> About for me </h2>
 <p>
-¡Hola! Soy ingeniero de pruebas senior con más de 8 años de experiencia en pruebas de software, detección de errores, y diseño e implementación de estrategias de aseguramiento de calidad. Me especializo en pruebas manuales y automatizadas, liderazgo de equipos, y optimización de procesos mediante metodologías ágiles para garantizar productos de alta calidad. Mi objetivo es contribuir con mi experiencia para impulsar la eficiencia y excelencia en el ciclo de desarrollo de software de la organización.
+¡Hola! Soy ingeniero de pruebas senior con más de 8 años de experiencia en pruebas de software, detección de errores, y diseño e implementación de estrategias de aseguramiento de calidad. Me especializo en pruebas manuales y automatizadas, liderazgo de equipos, y optimización de procesos mediante metodologías ágiles para garantizar productos de alta calidad.
 </p>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
