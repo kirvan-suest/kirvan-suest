@@ -3,7 +3,7 @@
 <hr/>
 <h2> About for me </h2>
 <p>
-¡Hola! Soy ingeniero de pruebas senior con más de 8 años de experiencia en pruebas de software, detección de errores, y diseño e implementación de estrategias de aseguramiento de calidad. Me especializo en pruebas manuales y automatizadas, liderazgo de equipos, y optimización de procesos mediante metodologías ágiles para garantizar productos de alta calidad.
+Hello! I'm a senior test engineer with over 8 years of experience in software testing, bug detection, and the design and implementation of quality assurance strategies. I specialize in manual and automated testing, team leadership, and process optimization using agile methodologies to ensure high-quality products.
 </p>
 
 <h2>🛠️ Languages, Frameworks, and Tools </h2>
