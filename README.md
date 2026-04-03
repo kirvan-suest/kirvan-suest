@@ -1,8 +1,6 @@
 
 <img width="2038" height="512" alt="Gemini_Generated_Image_gnqfurgnqfurgnqf" src="https://github.com/user-attachments/assets/1113e16b-b77f-4ea0-8273-8539f9342499" />
 
-
-<hr/>
 <h2> About for me </h2>
 <p>
 Hello! I'm a senior test engineer with over 8 years of experience in software testing, bug detection, and the design and implementation of quality assurance strategies. I specialize in manual and automated testing, team leadership, and process optimization using agile methodologies to ensure high-quality products.
