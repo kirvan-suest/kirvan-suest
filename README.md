@@ -7,11 +7,7 @@ Hello! I'm a senior test engineer with over 8 years of experience in software te
 </p>
 
 #### 🛠️Some of the technologies I have worked with
-<table>
-  <tr>
-    <th>Description</th>
-    <th>Detail</th>
-  </tr>
+<table style="width:100%; border: 1px solid black; border-collapse: collapse;">
   <tr>
     <td>Automation Frontend</td>
     <td> Cypress, Selenium</td>
