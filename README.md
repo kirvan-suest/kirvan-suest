@@ -77,7 +77,7 @@ ACTIVITIES
 </details>
 
 
-<details align="middle">
+<details>
 <summary>🛠️Some of the technologies I have worked with</summary>
 <br />
 
