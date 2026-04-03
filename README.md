@@ -12,7 +12,7 @@ Hello! I'm a senior test engineer with over 8 years of experience in software te
 <details>
 
 [comment]: <> (EDENRED)
-<summary align="center"> QA SPECIALIST, EDENRED MEXICO - PERIOD AUGUST 2023 – AUGUST 2025</summary>
+<summary> QA SPECIALIST, EDENRED MEXICO - PERIOD AUGUST 2023 – AUGUST 2025</summary>
 <br />
 
 ```javascript
@@ -33,7 +33,7 @@ ACTIVITIES
 <details>
 
 [comment]: <> (MTP)
-<summary align="center"> SR. TESTER, MTP DIGITAL BUSINESS ASSURANCE - PERIOD DECEMBER 2021 – JULY 2023 </summary>
+<summary> SR. TESTER, MTP DIGITAL BUSINESS ASSURANCE - PERIOD DECEMBER 2021 – JULY 2023 </summary>
 <br />
 
 ```javascript
@@ -55,7 +55,7 @@ ACTIVITIES
 <details>
 
 [comment]: <> (ABS)
-<summary align="center"> FULL STACK JAVA DEVELOPER, ABS TECNOLOGÍA - PERIOD JULY 2019 – NOVEMBER 2021 </summary>
+<summary> FULL STACK JAVA DEVELOPER, ABS TECNOLOGÍA - PERIOD JULY 2019 – NOVEMBER 2021 </summary>
 <br />
 
 ```javascript
@@ -77,7 +77,11 @@ ACTIVITIES
 </details>
 
 
-#### 🛠️Some of the technologies I have worked with
+<details align="middle">
+<summary>🛠️Some of the technologies I have worked with</summary>
+<br />
+
+
 <table style="border: 0px;">
   <tr>
     <td>Automation Frontend</td>
@@ -96,6 +100,10 @@ ACTIVITIES
     <td> Azure, ALM, SpiraTest</td>
   </tr>
 </table>
-</hr>
+
+</details>
+<br />
+
+</details>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kirvan-suest&theme=github-dark-blue&hide_border=true&border_radius=4&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
