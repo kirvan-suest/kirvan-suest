@@ -4,7 +4,7 @@
 ## 🚀 About Me
 Hello! I'm a senior test engineer with over 8 years of experience in software testing, bug detection, and the design and implementation of quality assurance strategies. I specialize in manual and automated testing, team leadership, and process optimization using agile methodologies to ensure high-quality products.
 
-<details align="middle">
+<details>
 <summary>💼 My experience (My most recent positions)</summary>
 <br />  
 
