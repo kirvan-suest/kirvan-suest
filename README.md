@@ -1,5 +1,7 @@
 
-<img width="2012" height="506" alt="Gemini_Generated_Image_ciuk1uciuk1uciuk" src="https://github.com/user-attachments/assets/3b2d0e99-021b-4d5f-aed5-d2136ba1e787" />
+<img width="2038" height="512" alt="Gemini_Generated_Image_gnqfurgnqfurgnqf" src="https://github.com/user-attachments/assets/1113e16b-b77f-4ea0-8273-8539f9342499" />
+
+
 <hr/>
 <h2> About for me </h2>
 <p>
